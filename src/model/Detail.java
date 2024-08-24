@@ -4,7 +4,7 @@ public class Detail {
     private  long barcode;
     private double size;
     private String material;
-    private String vendor;
+    private String vendor;src
     private double weight;
 
     public Detail(long barcode, double size, String material, String vendor, double weight) {
